@@ -65,6 +65,10 @@ I love **building apps**, and **learning cutting-edge technologies** to create i
   <img src="https://github-readme-stats.vercel.app/api?username=sneh2102&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/sneh2102/sneh2102/output/snake.svg" alt="Snake animation" />
+
 ---
 
 ### 📫 Let's Connect!  
@@ -74,9 +78,5 @@ I love **building apps**, and **learning cutting-edge technologies** to create i
 🌟 **Always eager to learn, explore, and create!** 🚀 
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sneh2102/sneh2102/output/snake.svg" alt="Snake animation" />
 
 ###
