@@ -1,10 +1,20 @@
-<h2 align="left">Hi 👋! My name is Sneh Patel and I'm a Masters Student at Dalhousie University</h2>
+<h1 align="center">Hey there! I'm Sneh Patel👋</h1>
+<p align="center">
+  <img src="https://i.gifer.com/3AyY.gif" width="200"/>
+</p>
 
-###
+---
 
+### 🚀 About Me  
+🎓 **Student at Dalhouise University**  
+💻 **Software Developer**  
+🔎 **Seeking Fulltime Opportunities** in **Software Development**  
 
-###
+I love **building apps**, and **learning cutting-edge technologies** to create impactful solutions!  
 
+---
+
+📌 **Skills & Tools:**  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -36,6 +46,32 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
 </div>
+
+---
+
+
+### ⚡ Fun Facts About Me  
+- I love **watching Anime** 🎌  
+- I love **solving LeetCode problems** & competitive coding 👨‍💻  
+- I enjoy **reading about AI & cybersecurity** 🛡️  
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sneh2102&theme=tokyonight" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sneh2102&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+
+---
+
+### 📫 Let's Connect!  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patelsneh21/)
+
+🌟 **Always eager to learn, explore, and create!** 🚀 
 
 ###
 
