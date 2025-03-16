@@ -49,14 +49,6 @@ I love **building apps**, and **learning cutting-edge technologies** to create i
 
 ---
 
-
-### ⚡ Fun Facts About Me  
-- I love **watching Anime** 🎌  
-- I love **solving LeetCode problems** & competitive coding 👨‍💻  
-- I enjoy **reading about AI & cybersecurity** 🛡️  
-
----
-
 ### 📊 GitHub Stats  
 
 <p align="center">
