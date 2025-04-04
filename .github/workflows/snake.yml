@@ -1,31 +1,36 @@
 name: Generate Snake SVGs
 
 on:
+  schedule: # Execute every 12 hours
+    - cron: "* */12 * * *"
+  workflow_dispatch:
   push:
-  schedule:
-    - cron: "0 0 * * *" # Runs daily
+    branches:
+      - main # Changed from 'master' to 'main' to match your current branch
 
 jobs:
   generate:
+    permissions:
+      contents: write # Ensure the workflow has write permissions
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+
     steps:
-      - uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }} # Use the default GITHUB_TOKEN for checkout
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      - uses: platane/snk@v3
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: sneh2102
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            output/snake.svg?palette=github-dark
-            output/snake-light.svg?palette=github-light
+            dist/snake.svg?palette=github-dark
+            dist/snake-light.svg?palette=github-light
 
-      - name: Commit SVGs
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add output/snake.svg output/snake-light.svg
-          git commit -m "Update snake SVGs" || echo "No changes to commit"
-          git push
+      - name: Push SVGs to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Pass the token for authentication
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
