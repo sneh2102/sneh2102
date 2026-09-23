@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi,%20I'm%20Sneh%20Patel&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6A11CBFF&center=true&vCenter=true&width=600&lines=Software+Developer+%40+Dalhousie+University;Building+full-stack+apps+%26+cloud+pipelines;Exploring+multi-agent+systems+and+applied+LLMs;Open+to+Full-Time+Opportunities+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6A11CBFF&center=true&vCenter=true&width=600&lines=System+Analyst+%40+Nova+Scotia+Health+Authority;Building+full-stack+apps+%26+cloud+pipelines;Exploring+multi-agent+systems+and+applied+LLMs;Dalhousie+University+Alum+%F0%9F%8E%93" alt="Typing SVG"/>
 
 <a href="https://www.linkedin.com/in/patelsneh21/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:patel.sneh2102@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -18,8 +18,8 @@
 
 ### 🚀 About Me
 
-- 🎓 Graduate student at **Dalhousie University**
-- 💼 Software Developer, actively **seeking full-time opportunities**
+- 💼 **System Analyst** at **Nova Scotia Health Authority**
+- 🎓 Graduate of **Dalhousie University**
 - 🛠️ I build full-stack apps, cloud/DevOps pipelines, and AI-powered tools
 - 🤖 Recently exploring **multi-agent systems, LangGraph, and applied LLMs**
 - ⚡ Fun fact: I ship a lot of side projects — check the pinned repos below!
