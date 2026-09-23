@@ -79,12 +79,14 @@
 
 <div align="center">
 
-<a href="https://github.com/sneh2102/Thyroid-Cancer-Power-Bi-Dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sneh2102&repo=Thyroid-Cancer-Power-Bi-Dashboard&theme=tokyonight" /></a>
-<a href="https://github.com/sneh2102/Async_Dr_AI_Refactoring"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sneh2102&repo=Async_Dr_AI_Refactoring&theme=tokyonight" /></a>
-<a href="https://github.com/sneh2102/Loan_monitoring_Multi_Agent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sneh2102&repo=Loan_monitoring_Multi_Agent&theme=tokyonight" /></a>
-<a href="https://github.com/sneh2102/Kubernetes-with-CI-CD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sneh2102&repo=Kubernetes-with-CI-CD&theme=tokyonight" /></a>
-<a href="https://github.com/sneh2102/Kairos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sneh2102&repo=Kairos&theme=tokyonight" /></a>
-<a href="https://github.com/sneh2102/multicloud_hotel_management_system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sneh2102&repo=multicloud_hotel_management_system&theme=tokyonight" /></a>
+[![Thyroid Cancer Dashboard](https://img.shields.io/badge/Power_BI-Thyroid_Cancer_Dashboard-6a11cb?style=for-the-badge&logo=powerbi&logoColor=white)](https://github.com/sneh2102/Thyroid-Cancer-Power-Bi-Dashboard)
+[![Async Dr AI Refactoring](https://img.shields.io/badge/Node.js-Async_Dr_AI_Refactoring-2575fc?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/sneh2102/Async_Dr_AI_Refactoring)
+[![Loan Monitoring Multi-Agent](https://img.shields.io/badge/LangGraph-Loan_Monitoring_Agent-6a11cb?style=for-the-badge&logo=python&logoColor=white)](https://github.com/sneh2102/Loan_monitoring_Multi_Agent)
+[![Kubernetes CI/CD](https://img.shields.io/badge/GKE-Kubernetes_CI/CD-2575fc?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/sneh2102/Kubernetes-with-CI-CD)
+[![Kairos](https://img.shields.io/badge/LangGraph-Kairos_Job_Pipeline-6a11cb?style=for-the-badge&logo=langchain&logoColor=white)](https://github.com/sneh2102/Kairos)
+[![Multicloud Hotel System](https://img.shields.io/badge/AWS%2FGCP-Hotel_Management_System-2575fc?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/sneh2102/multicloud_hotel_management_system)
+
+*(pin these repos via GitHub's "Customize your pins" for interactive cards right on your profile)*
 
 </div>
 
@@ -93,16 +95,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sneh2102&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sneh2102&theme=tokyonight" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneh2102&layout=compact&theme=tokyonight&langs_count=10" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sneh2102&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
 </div>
 
 <div align="center">
