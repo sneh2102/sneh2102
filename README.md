@@ -26,7 +26,7 @@
 
 </td>
 <td width="40%" valign="center" align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/127d79d7-e59d-4aa8-bd18-63b89c666d95" width="100%"/>
+<img src="https://media.tenor.com/7-F67CN4WvwAAAAM/computer-cool.gif" width="100%"/>
 </td>
 </tr>
 </table>
