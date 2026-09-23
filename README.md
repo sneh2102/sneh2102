@@ -85,20 +85,111 @@
 
 ---
 
-### 📌 Featured Projects
+### 📌 Projects
 
-<div align="center">
+<details open>
+<summary><b>🤖 AI & LLM Systems</b></summary>
+<br/>
 
-[![Thyroid Cancer Dashboard](https://img.shields.io/badge/Power_BI-Thyroid_Cancer_Dashboard-6a11cb?style=for-the-badge&logo=powerbi&logoColor=white)](https://github.com/sneh2102/Thyroid-Cancer-Power-Bi-Dashboard)
-[![Async Dr AI Refactoring](https://img.shields.io/badge/Node.js-Async_Dr_AI_Refactoring-2575fc?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/sneh2102/Async_Dr_AI_Refactoring)
-[![Loan Monitoring Multi-Agent](https://img.shields.io/badge/LangGraph-Loan_Monitoring_Agent-6a11cb?style=for-the-badge&logo=python&logoColor=white)](https://github.com/sneh2102/Loan_monitoring_Multi_Agent)
-[![Kubernetes CI/CD](https://img.shields.io/badge/GKE-Kubernetes_CI/CD-2575fc?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/sneh2102/Kubernetes-with-CI-CD)
-[![Kairos](https://img.shields.io/badge/LangGraph-Kairos_Job_Pipeline-6a11cb?style=for-the-badge&logo=langchain&logoColor=white)](https://github.com/sneh2102/Kairos)
-[![Multicloud Hotel System](https://img.shields.io/badge/AWS%2FGCP-Hotel_Management_System-2575fc?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/sneh2102/multicloud_hotel_management_system)
+| Project | Description | Tech Stack |
+|---|---|---|
+| [Kairos](https://github.com/sneh2102/Kairos) | AI job-hunting pipeline: scrapes postings, screens them with an LLM via LangGraph agents, generates tailored resumes/cover letters | Python, LangGraph, LLM |
+| [Loan_monitoring_Multi_Agent](https://github.com/sneh2102/Loan_monitoring_Multi_Agent) | Multi-agent system that reviews a commercial loan portfolio and produces a ranked risk brief for human review | Python, LangGraph, FastAPI |
+| [Async_Dr_AI_Refactoring](https://github.com/sneh2102/Async_Dr_AI_Refactoring) | Detects async/await anti-patterns via static + dynamic tracing, with AI-assisted fixes, a web UI, and GKE deployment | Node.js, TypeScript, GKE |
+| [Bugs-Triage-System](https://github.com/sneh2102/Bugs-Triage-System) | Classifies bug reports and assigns them to the right team using NLP (TF-IDF + Naive Bayes) | Python, scikit-learn, NLP |
+| [Job-Scraper-with-AI-Filtering](https://github.com/sneh2102/Job-Scraper-with-AI-Filtering) | Scrapes job postings from LinkedIn, Glassdoor, Indeed, and ZipRecruiter, filters them with an LLM, exports matches to Excel | Python, LLM |
+| [RagGpt](https://github.com/sneh2102/RagGpt) | Local RAG app: upload PDFs and ask questions about their content with full data privacy | Python, LangChain, Ollama, Streamlit |
+| [Meeting-AI](https://github.com/sneh2102/Meeting-AI) | Real-time interview assistant that transcribes conversation and generates AI-powered answers, hidden from screen sharing | Electron, AI |
+| [Llama-microservice](https://github.com/sneh2102/Llama-microservice) | Express microservice that proxies chat/completion requests to a local Ollama LLM server | Node.js, Express, Ollama |
 
-*(pin these repos via GitHub's "Customize your pins" for interactive cards right on your profile)*
+</details>
 
-</div>
+<details open>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br/>
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| [Kubernetes-with-CI-CD](https://github.com/sneh2102/Kubernetes-with-CI-CD) | Terraform-provisioned GKE cluster with a CI/CD pipeline (Cloud Build) to containerize and deploy services to Kubernetes | Terraform, GCP, GKE, Docker |
+| [multicloud_hotel_management_system](https://github.com/sneh2102/multicloud_hotel_management_system) | Hotel management system on multi-cloud architecture: booking, real-time messaging, sentiment-analysed reviews, analytics dashboard | AWS, GCP, TypeScript |
+| [Note-Taking-app-AWS-Serverless](https://github.com/sneh2102/Note-Taking-app-AWS-Serverless) | Serverless note-taking app with an AWS Lambda CRUD backend and a React frontend | AWS Lambda, React |
+| [AniVerse](https://github.com/sneh2102/AniVerse) | Scalable anime streaming platform built on AWS, designed to handle high traffic and ensure data security | AWS, JavaScript |
+| [shiksha](https://github.com/sneh2102/shiksha) | Education-platform app with AWS Cognito authentication and S3-backed video/file uploads | React, AWS Cognito, S3 |
+| [Remote_Access](https://github.com/sneh2102/Remote_Access) | Cross-platform remote agent pairing packaged binaries with a viewer over a relay connection | Node.js, Windows/macOS/Linux |
+
+</details>
+
+<details open>
+<summary><b>🧩 Full-Stack Applications</b></summary>
+<br/>
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| [Paradise](https://github.com/sneh2102/Paradise) | Trekking/travel booking platform with Admin, Manager, and User panels — see also [Paradise-frontend](https://github.com/sneh2102/Paradise-frontend) and [Paradise-Server](https://github.com/sneh2102/Paradise-Server) | React, Express, MongoDB, Firebase |
+| [Share_Settle](https://github.com/sneh2102/Share_Settle) | Expense-splitting web app with payments — see also [share-settleFrontend](https://github.com/sneh2102/share-settleFrontend) and [share-settleserver](https://github.com/sneh2102/share-settleserver) | React, Node/Express, MongoDB, MUI |
+| [Park-Space](https://github.com/sneh2102/Park-Space) | GPS-based urban parking platform for seamless, affordable, eco-friendly parking | Kotlin |
+| [online-banking](https://github.com/sneh2102/online-banking) | Banking system with accounts, transactions, and transaction history | Java, Spring Boot, Spring Security, Angular |
+| [Inventory_Management](https://github.com/sneh2102/Inventory_Management) | Inventory and order management system: purchases, sales, shipments, vendors, customers | ASP.NET Core MVC, C# |
+| [Clinic-Management](https://github.com/sneh2102/Clinic-Management) | Clinic management app for patient registration, doctor appointments, and visit reports | ASP.NET MVC, C# |
+| [Blogapp-Laravel](https://github.com/sneh2102/Blogapp-Laravel) | Laravel-based blog application built on the standard Laravel starter kit | PHP 8.3, Laravel 13 |
+| [codenames](https://github.com/sneh2102/codenames) | Multiplayer Codenames word-guessing game | Express, Socket.IO |
+| [Movie-app](https://github.com/sneh2102/Movie-app) | Movie browser app using the TMDB API with a Bootstrap UI | React, Redux, TMDB API |
+| [lyricsApp](https://github.com/sneh2102/lyricsApp) | Search and display song lyrics via a public lyrics API | React |
+
+</details>
+
+<details open>
+<summary><b>🔐 Cryptography & Systems</b></summary>
+<br/>
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| [liboqs-node-windows](https://github.com/sneh2102/liboqs-node-windows) | Windows build of Node.js bindings for liboqs (Open Quantum Safe) post-quantum cryptography | C++, Node.js |
+| [Saturnin-node](https://github.com/sneh2102/Saturnin-node) | Native Node.js bindings for the Saturnin lightweight cryptographic cipher | C, Node.js |
+| [qrng-node](https://github.com/sneh2102/qrng-node) | Quantum-inspired random number generator for Node.js using quantum circuit simulation | C, Node.js |
+| [Mini-MySQL](https://github.com/sneh2102/Mini-MySQL) | Mini SQL engine that mimics MySQL functionality, storing data in local files with querying, auth, and transactions | Java |
+| [Battleship-game](https://github.com/sneh2102/Battleship-game) | Console-based Battleship game | Java, Maven |
+| [Libraray-Management-System-in-Java](https://github.com/sneh2102/Libraray-Management-System-in-Java) | Console app for managing a library's book catalog, parsing year-wise CSV data with error handling | Java |
+
+</details>
+
+<details open>
+<summary><b>📊 Data, Automation & Scripts</b></summary>
+<br/>
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| [Thyroid-Cancer-Power-Bi-Dashboard](https://github.com/sneh2102/Thyroid-Cancer-Power-Bi-Dashboard) | Power BI dashboard analyzing thyroid cancer risk factors, prevalence, and patterns using a Kaggle dataset | Power BI, DAX, Excel/Power Query |
+| [realtime-data-streaming-pipeline](https://github.com/sneh2102/realtime-data-streaming-pipeline) | End-to-end streaming pipeline: TCP socket ingestion, Spark processing, OpenAI sentiment analysis, Kafka, Elasticsearch | Python, Spark, Kafka, Elasticsearch |
+| [image_pipeline_automation](https://github.com/sneh2102/image_pipeline_automation) | Flask API that parses product image spreadsheets and validates/processes images for a Power Automate pipeline | Python, Flask |
+| [Image_Background_Remover](https://github.com/sneh2102/Image_Background_Remover) | Script that automatically removes the background from images | Python |
+
+</details>
+
+<details open>
+<summary><b>🎨 Portfolio Sites</b></summary>
+<br/>
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| [bento-portfolio](https://github.com/sneh2102/bento-portfolio) | Bento-grid style personal portfolio | Next.js 14, TypeScript, Tailwind, Framer Motion |
+| [Portfolio-framer-motion](https://github.com/sneh2102/Portfolio-framer-motion) | Personal portfolio website with animated transitions | Next.js, Tailwind, Framer Motion |
+| [Portfolio](https://github.com/sneh2102/Portfolio) | Personal portfolio website | React, Vite |
+| [ContactUs](https://github.com/sneh2102/ContactUs) | Reusable Contact Us page UI component | React, TypeScript, Vite |
+
+</details>
+
+<details>
+<summary><b>🎓 Academic</b></summary>
+<br/>
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| [CSCI-5709-Assignments](https://github.com/sneh2102/CSCI-5709-Assignments) | Assignment solutions for Dalhousie's CSCI 5709 (Advanced Topics in Web Development) course | TypeScript |
+
+</details>
+
+<p align="center"><i>💡 Pin your favorites via GitHub's "Customize your pins" for interactive cards right on your profile.</i></p>
 
 ---
 
