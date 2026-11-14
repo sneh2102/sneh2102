@@ -99,7 +99,6 @@
 | [Bugs-Triage-System](https://github.com/sneh2102/Bugs-Triage-System) | Classifies bug reports and assigns them to the right team using NLP (TF-IDF + Naive Bayes) | Python, scikit-learn, NLP |
 | [Job-Scraper-with-AI-Filtering](https://github.com/sneh2102/Job-Scraper-with-AI-Filtering) | Scrapes job postings from LinkedIn, Glassdoor, Indeed, and ZipRecruiter, filters them with an LLM, exports matches to Excel | Python, LLM |
 | [RagGpt](https://github.com/sneh2102/RagGpt) | Local RAG app: upload PDFs and ask questions about their content with full data privacy | Python, LangChain, Ollama, Streamlit |
-| [Meeting-AI](https://github.com/sneh2102/Meeting-AI) | Real-time interview assistant that transcribes conversation and generates AI-powered answers, hidden from screen sharing | Electron, AI |
 | [Llama-microservice](https://github.com/sneh2102/Llama-microservice) | Express microservice that proxies chat/completion requests to a local Ollama LLM server | Node.js, Express, Ollama |
 
 </details>
